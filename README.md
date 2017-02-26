@@ -1,5 +1,5 @@
-## 百度前端技术学院习题在线demo地址
+## 百度前端技术学院在线demo地址
 
-### vue系列课程在线demo地址
+### vue动态数据绑定在线demo地址
 
-For more details see [vue动态数据绑定在线demo地址](https://guides.github.com/features/mastering-markdown/).
+vue动态数据绑定(一)[vue动态数据绑定在线demo地址](https://guides.github.com/features/mastering-markdown/).
